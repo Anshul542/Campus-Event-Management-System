@@ -1,0 +1,65 @@
+.flex{
+    display: flex;
+}
+
+   .justify-content-space-between{
+    justify-content: space-between;
+   }
+
+   .bg-navbar{
+    background-color:aquamarine ;
+   }
+
+   .p-10{
+    padding: 10px;
+   }
+   .ptb-20{
+    padding: 25px;
+    padding-bottom: 20px;
+   }
+
+   .pl-5{
+      
+    padding-left: 40px;
+   }
+
+   .nav-links{
+      cursor:pointer;
+       
+   }
+   .nav-links:hover{
+     color:pink
+   }
+   .links{
+    text-decoration: none;
+   }
+   .links:hover{
+    color: pink;
+   }
+   .pl-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    
+}
+.link{
+    text-decoration: none;
+}
+
+.login{
+    /* margin: 5px;
+    margin-left:10px;
+    text-align: center;
+    cursor: pointer; */
+     background-color: #04AA6D;
+  color: white;
+  padding: 3px;
+  margin-left: 5px;
+   
+  margin: 1px  5px 10px 50px;
+    
+  cursor: pointer;
+  
+     
+}
+  
